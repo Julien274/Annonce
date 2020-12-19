@@ -1,2 +1,5 @@
 # Annonce
-Make annonce in chat 
+Plugin annonce for Pocketmine-MP
+
+# Command
+/annonce (message) / Permission : annonce.use
