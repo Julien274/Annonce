@@ -1,0 +1,7 @@
+name: Annonce
+version: 1.0.0
+main: Annonce\Main
+api: 3.0.0
+author: Julien
+description: Plugin Annonce for Pocketmine
+website: Julien#1234
